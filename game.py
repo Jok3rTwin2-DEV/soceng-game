@@ -2,6 +2,7 @@
 
 #imports
 import os
+import socket
 import subprocess
 import smtplib
 '''
@@ -70,4 +71,14 @@ def answers_output():
 		print(readMe) 
 
 answers_output()
+
+#email server here
+
+
+
+
+
+#implement spyware here
+
+
 
