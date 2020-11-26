@@ -73,12 +73,16 @@ def answers_output():
 answers_output()
 
 #email server here
+def email():
+	print("there is no email server yet!!!")
 
 
 
 
-
-#implement spyware here
-
-
-
+#implement extra software here
+def extra_software():
+	print("there is no extra software yet!!!")
+	print("DEVELOPERS are working on getting that ready soon")
+	
+email()
+extra_software()
