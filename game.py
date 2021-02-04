@@ -15,9 +15,9 @@ Email: Jok3rtwin2@protonmail.com
 
 #this is the intro to my program
 def title():                               	
-	print('\nI dedicate this program to sara\n')
+	print('\nI dedicate this program to myself :) \n')
 	print('There is a surprise at the end play the whole game to find out ;)' )
-	print('NOW LETS BEGIN')
+	print('\n\nNOW LETS BEGIN')
 
 title()	
 
@@ -72,6 +72,10 @@ def answers_output():
 		print(readMe) 
 
 answers_output()
+
+def end_program():
+	os.system("clear")
+end_program()
 
 #email server here
 def email():
